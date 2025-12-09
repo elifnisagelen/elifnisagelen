@@ -1,16 +1,33 @@
-## Hi there 👋
+### Merhaba, ben Elif Nisa Gelen! ♡
 
-<!--
-**elifnisagelen/elifnisagelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Konya Teknik Üniversitesi**'nde **Yapay Zeka ve Makine Öğrenmesi** okuyorum, 2. Sınıf öğrencisiyim.  
+🐍 **Veri Bilimi** ve **Makine Öğrenmesi** ile ilgileniyor ve kendi projelerim üzerinde çalışıyorum.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Yetenekler
+
+♡ **Diller:** Python, C++ , Java , C , MATLAB  
+♡ **Veri Bilimi:** Pandas, NumPy, Matplotlib  
+♡ **Makine Öğrenmesi:** Scikit-learn (Naive Bayes, Regression vb.)  
+♡ **Araçlar:**  Jupyter Notebook , VS code  
+
+
+ᯓ★  
+
+### 📱 İletişim Bilgileri  
+📍**Selçuklu/Konya**  
+*[LinkedIn](https://www.linkedin.com/in/elif-nisa-gelen-139305329/)  
+*[Mail](mailto:elifnisagelen44@gmail.com)  
+
+
+
+
+
+
+
+
+
+
+
+
