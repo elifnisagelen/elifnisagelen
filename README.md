@@ -3,7 +3,6 @@
 **Konya Teknik Üniversitesi**'nde **Yapay Zeka ve Makine Öğrenmesi** okuyorum, 2. Sınıf öğrencisiyim.  
 
 
-ᯓ★  
 
 ### İletişim Bilgileri  
 📍**Selçuklu/Konya**  
